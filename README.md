@@ -44,6 +44,9 @@ I'm also open to contributing to other open source projects. Feel free to DM me 
 - 🧑‍💼 open for new challenges (e.g. open source projects)
 - 🚧 more coming soon...
 
+### 📜 Certificates
+- [Google Cloud Essentials](https://www.cloudskillsboost.google/public_profiles/ddb463db-c514-4706-93e0-2e0e988bc499/badges/1624712?qlcampaign=1m-skills-educr-13%3A%3A2etuHfuW8nE0u2F0y4A6Og) (earned Jan 3, 2022)
+
 ## 🌐 Socials
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/ccpgH3b) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/julianyaman_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/julian-yaman) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/7388353) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/yaman071) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/julianYaman) 
 
