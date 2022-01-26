@@ -61,7 +61,7 @@ Stuff I use a lot or even on a daily basis:
 ![LaTeX](https://img.shields.io/badge/LaTeX-%23008080.svg?logo=latex&logoColor=white) 
 ![Markdown](https://img.shields.io/badge/Markdown-%23000000.svg?logo=markdown&logoColor=white) 
 ![Pug](https://img.shields.io/badge/Pug-FFF?logo=pug&logoColor=A86454) 
-![Python](https://img.shields.io/badge/Pythton-3670A0?logo=python&logoColor=ffdd54) 
+![Python](https://img.shields.io/badge/Python-3670A0?logo=python&logoColor=ffdd54) 
 ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?logo=typescript&logoColor=white) 
 ### 🧰 Frameworks & Libraries
 ![Discord.js](https://img.shields.io/badge/Discord.js-5865F2.svg?logo=discord&logoColor=white) 
