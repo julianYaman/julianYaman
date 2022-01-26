@@ -24,11 +24,11 @@ I'm also open to contributing to other open source projects. Feel free to DM me 
   <br/>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#32](https://github.com/XRM-OSS/D365-UI-Test/issues/32) in [XRM-OSS/D365-UI-Test](https://github.com/XRM-OSS/D365-UI-Test)
-2. 💪 Opened PR [#33](https://github.com/XRM-OSS/D365-UI-Test/pull/33) in [XRM-OSS/D365-UI-Test](https://github.com/XRM-OSS/D365-UI-Test)
-3. 🎉 Merged PR [#95](https://github.com/wikipedia-bot/wikipedia-bot/pull/95) in [wikipedia-bot/wikipedia-bot](https://github.com/wikipedia-bot/wikipedia-bot)
-4. 🗣 Commented on [#32](https://github.com/XRM-OSS/D365-UI-Test/issues/32) in [XRM-OSS/D365-UI-Test](https://github.com/XRM-OSS/D365-UI-Test)
-5. ❗️ Closed issue [#11](https://github.com/pierreroth64/jest-spec-reporter/issues/11) in [pierreroth64/jest-spec-reporter](https://github.com/pierreroth64/jest-spec-reporter)
+1. 🗣 Commented on [#2](https://github.com/techytushar/random-memer/issues/2) in [techytushar/random-memer](https://github.com/techytushar/random-memer)
+2. ❗️ Opened issue [#1](https://github.com/VishwaGauravIn/github-profile-readme-maker/issues/1) in [VishwaGauravIn/github-profile-readme-maker](https://github.com/VishwaGauravIn/github-profile-readme-maker)
+3. 🗣 Commented on [#32](https://github.com/XRM-OSS/D365-UI-Test/issues/32) in [XRM-OSS/D365-UI-Test](https://github.com/XRM-OSS/D365-UI-Test)
+4. 💪 Opened PR [#33](https://github.com/XRM-OSS/D365-UI-Test/pull/33) in [XRM-OSS/D365-UI-Test](https://github.com/XRM-OSS/D365-UI-Test)
+5. 🎉 Merged PR [#95](https://github.com/wikipedia-bot/wikipedia-bot/pull/95) in [wikipedia-bot/wikipedia-bot](https://github.com/wikipedia-bot/wikipedia-bot)
 <!--END_SECTION:activity-->
 </details>
 
