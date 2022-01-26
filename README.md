@@ -24,11 +24,11 @@ I'm also open to contributing to other open source projects. Feel free to DM me 
   <br/>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2](https://github.com/techytushar/random-memer/issues/2) in [techytushar/random-memer](https://github.com/techytushar/random-memer)
-2. ❗️ Opened issue [#34](https://github.com/XRM-OSS/D365-UI-Test/issues/34) in [XRM-OSS/D365-UI-Test](https://github.com/XRM-OSS/D365-UI-Test)
-3. 🗣 Commented on [#2](https://github.com/techytushar/random-memer/issues/2) in [techytushar/random-memer](https://github.com/techytushar/random-memer)
-4. ❗️ Opened issue [#1](https://github.com/VishwaGauravIn/github-profile-readme-maker/issues/1) in [VishwaGauravIn/github-profile-readme-maker](https://github.com/VishwaGauravIn/github-profile-readme-maker)
-5. 🗣 Commented on [#32](https://github.com/XRM-OSS/D365-UI-Test/issues/32) in [XRM-OSS/D365-UI-Test](https://github.com/XRM-OSS/D365-UI-Test)
+1. 🗣 Commented on [#1](https://github.com/VishwaGauravIn/github-profile-readme-maker/issues/1) in [VishwaGauravIn/github-profile-readme-maker](https://github.com/VishwaGauravIn/github-profile-readme-maker)
+2. 🗣 Commented on [#2](https://github.com/techytushar/random-memer/issues/2) in [techytushar/random-memer](https://github.com/techytushar/random-memer)
+3. ❗️ Opened issue [#34](https://github.com/XRM-OSS/D365-UI-Test/issues/34) in [XRM-OSS/D365-UI-Test](https://github.com/XRM-OSS/D365-UI-Test)
+4. 🗣 Commented on [#2](https://github.com/techytushar/random-memer/issues/2) in [techytushar/random-memer](https://github.com/techytushar/random-memer)
+5. ❗️ Opened issue [#1](https://github.com/VishwaGauravIn/github-profile-readme-maker/issues/1) in [VishwaGauravIn/github-profile-readme-maker](https://github.com/VishwaGauravIn/github-profile-readme-maker)
 <!--END_SECTION:activity-->
 </details>
 
