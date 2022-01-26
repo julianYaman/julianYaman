@@ -34,6 +34,7 @@ I'm also open to contributing to other open source projects. Feel free to DM me 
 
 ### My Latest Blog Posts 👇
 <!-- HASHNODE_BLOG:START -->
+- [How Hybrid Sharding for discord.js Bots Saved 75% of my previous Memory Usage](https://julianyaman.hashnode.dev/how-hybrid-sharding-for-discordjs-bots-saved-75-of-my-previous-memory-usage-ckrts15zp0p5xdps17alqhg28)
 <!-- HASHNODE_BLOG:END -->
 
 ### 👷‍♂️ Currently working on
