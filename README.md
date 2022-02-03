@@ -1,6 +1,6 @@
 <img width="100%" src="https://user-images.githubusercontent.com/20521320/151059203-6ca4fdeb-868d-41c1-8ac9-0a3c7ff2f277.png">
 
-<a href="https://app.daily.dev/julianYaman"><img align="right" src="https://github.com/julianYaman/julianYaman/blob/master/devcard.svg" width="400" alt="Julian Yaman's Dev Card"/></a>
+<a href="https://app.daily.dev/julianYaman"><img align="right" src="https://github.com/julianYaman/julianYaman/blob/main/devcard.svg" width="400" alt="Julian Yaman's Dev Card"/></a>
   
 <details>
   <summary> 🙋‍♂️ <b>Read more about me :)</b></summary>
