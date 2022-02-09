@@ -26,11 +26,11 @@ I'm also open to contributing to other open source projects. Feel free to DM me 
   <br/>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/julianYaman/julianYaman/pull/1) in [julianYaman/julianYaman](https://github.com/julianYaman/julianYaman)
-2. 🗣 Commented on [#2](https://github.com/MarcoLucidi01/ytcast/issues/2) in [MarcoLucidi01/ytcast](https://github.com/MarcoLucidi01/ytcast)
-3. 💪 Opened PR [#2](https://github.com/MarcoLucidi01/ytcast/pull/2) in [MarcoLucidi01/ytcast](https://github.com/MarcoLucidi01/ytcast)
-4. ❗️ Opened issue [#73](https://github.com/jamesgeorge007/github-activity-readme/issues/73) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
-5. ❗️ Closed issue [#32](https://github.com/XRM-OSS/D365-UI-Test/issues/32) in [XRM-OSS/D365-UI-Test](https://github.com/XRM-OSS/D365-UI-Test)
+1. 🗣 Commented on [#38](https://github.com/XRM-OSS/D365-UI-Test/issues/38) in [XRM-OSS/D365-UI-Test](https://github.com/XRM-OSS/D365-UI-Test)
+2. 🗣 Commented on [#38](https://github.com/XRM-OSS/D365-UI-Test/issues/38) in [XRM-OSS/D365-UI-Test](https://github.com/XRM-OSS/D365-UI-Test)
+3. ❗️ Opened issue [#38](https://github.com/XRM-OSS/D365-UI-Test/issues/38) in [XRM-OSS/D365-UI-Test](https://github.com/XRM-OSS/D365-UI-Test)
+4. 🎉 Merged PR [#1](https://github.com/julianYaman/julianYaman/pull/1) in [julianYaman/julianYaman](https://github.com/julianYaman/julianYaman)
+5. 🗣 Commented on [#2](https://github.com/MarcoLucidi01/ytcast/issues/2) in [MarcoLucidi01/ytcast](https://github.com/MarcoLucidi01/ytcast)
 <!--END_SECTION:activity-->
 </details>
 
