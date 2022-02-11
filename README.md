@@ -27,7 +27,7 @@ I'm also open to contributing to other open source projects. Feel free to DM me 
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#38](https://github.com/XRM-OSS/D365-UI-Test/issues/38) in [XRM-OSS/D365-UI-Test](https://github.com/XRM-OSS/D365-UI-Test)
-2. 🗣 Commented on [#38](https://github.com/XRM-OSS/D365-UI-Test/issues/38) in [XRM-OSS/D365-UI-Test](https://github.com/XRM-OSS/D365-UI-Test)
+2. ❗️ Closed issue [#38](https://github.com/XRM-OSS/D365-UI-Test/issues/38) in [XRM-OSS/D365-UI-Test](https://github.com/XRM-OSS/D365-UI-Test)
 3. 🗣 Commented on [#38](https://github.com/XRM-OSS/D365-UI-Test/issues/38) in [XRM-OSS/D365-UI-Test](https://github.com/XRM-OSS/D365-UI-Test)
 4. 🗣 Commented on [#38](https://github.com/XRM-OSS/D365-UI-Test/issues/38) in [XRM-OSS/D365-UI-Test](https://github.com/XRM-OSS/D365-UI-Test)
 5. 🗣 Commented on [#38](https://github.com/XRM-OSS/D365-UI-Test/issues/38) in [XRM-OSS/D365-UI-Test](https://github.com/XRM-OSS/D365-UI-Test)
