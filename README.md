@@ -26,7 +26,7 @@ I'm also open to contributing to other open source projects. Feel free to DM me 
   <br/>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#760](https://github.com/pantsel/konga/issues/760) in [pantsel/konga](https://github.com/pantsel/konga)
+1. 🗣 Commented on [#7986](https://github.com/prisma/prisma/issues/7986) in [prisma/prisma](https://github.com/prisma/prisma)
 2. 🗣 Commented on [#7](https://github.com/julianYaman/bitcoin-clicker/issues/7) in [julianYaman/bitcoin-clicker](https://github.com/julianYaman/bitcoin-clicker)
 3. 🗣 Commented on [#261](https://github.com/vercel/turborepo/issues/261) in [vercel/turborepo](https://github.com/vercel/turborepo)
 4. 🎉 Merged PR [#4](https://github.com/The-Bug-Busters/spotify-playlist-web-app/pull/4) in [The-Bug-Busters/spotify-playlist-web-app](https://github.com/The-Bug-Busters/spotify-playlist-web-app)
