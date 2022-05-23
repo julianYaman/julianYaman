@@ -27,8 +27,8 @@ I'm also open to contributing to other open source projects. Feel free to DM me 
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#110](https://github.com/themesberg/flowbite-react/issues/110) in [themesberg/flowbite-react](https://github.com/themesberg/flowbite-react)
-2. 🗣 Commented on [#7986](https://github.com/prisma/prisma/issues/7986) in [prisma/prisma](https://github.com/prisma/prisma)
-3. 🗣 Commented on [#261](https://github.com/vercel/turborepo/issues/261) in [vercel/turborepo](https://github.com/vercel/turborepo)
+2. 🗣 Commented on [#110](https://github.com/themesberg/flowbite-react/issues/110) in [themesberg/flowbite-react](https://github.com/themesberg/flowbite-react)
+3. 🗣 Commented on [#7986](https://github.com/prisma/prisma/issues/7986) in [prisma/prisma](https://github.com/prisma/prisma)
 4. 🎉 Merged PR [#4](https://github.com/The-Bug-Busters/spotify-playlist-web-app/pull/4) in [The-Bug-Busters/spotify-playlist-web-app](https://github.com/The-Bug-Busters/spotify-playlist-web-app)
 5. 💪 Opened PR [#415](https://github.com/stefanjudis/tiny-helpers/pull/415) in [stefanjudis/tiny-helpers](https://github.com/stefanjudis/tiny-helpers)
 <!--END_SECTION:activity-->
