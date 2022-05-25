@@ -26,11 +26,11 @@ I'm also open to contributing to other open source projects. Feel free to DM me 
   <br/>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#1](https://github.com/julianYaman/tooldb/issues/1) in [julianYaman/tooldb](https://github.com/julianYaman/tooldb)
-2. 🗣 Commented on [#110](https://github.com/themesberg/flowbite-react/issues/110) in [themesberg/flowbite-react](https://github.com/themesberg/flowbite-react)
-3. ❗️ Opened issue [#1](https://github.com/julianYaman/tooldb/issues/1) in [julianYaman/tooldb](https://github.com/julianYaman/tooldb)
+1. ❗️ Closed issue [#2](https://github.com/julianYaman/tooldb/issues/2) in [julianYaman/tooldb](https://github.com/julianYaman/tooldb)
+2. 🗣 Commented on [#2](https://github.com/julianYaman/tooldb/issues/2) in [julianYaman/tooldb](https://github.com/julianYaman/tooldb)
+3. ❗️ Closed issue [#1](https://github.com/julianYaman/tooldb/issues/1) in [julianYaman/tooldb](https://github.com/julianYaman/tooldb)
 4. 🗣 Commented on [#110](https://github.com/themesberg/flowbite-react/issues/110) in [themesberg/flowbite-react](https://github.com/themesberg/flowbite-react)
-5. 🗣 Commented on [#110](https://github.com/themesberg/flowbite-react/issues/110) in [themesberg/flowbite-react](https://github.com/themesberg/flowbite-react)
+5. ❗️ Opened issue [#1](https://github.com/julianYaman/tooldb/issues/1) in [julianYaman/tooldb](https://github.com/julianYaman/tooldb)
 <!--END_SECTION:activity-->
 </details>
 
