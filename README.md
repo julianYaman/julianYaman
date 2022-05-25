@@ -26,11 +26,11 @@ I'm also open to contributing to other open source projects. Feel free to DM me 
   <br/>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#110](https://github.com/themesberg/flowbite-react/issues/110) in [themesberg/flowbite-react](https://github.com/themesberg/flowbite-react)
-2. ❗️ Opened issue [#1](https://github.com/julianYaman/tooldb/issues/1) in [julianYaman/tooldb](https://github.com/julianYaman/tooldb)
-3. 🗣 Commented on [#110](https://github.com/themesberg/flowbite-react/issues/110) in [themesberg/flowbite-react](https://github.com/themesberg/flowbite-react)
+1. ❗️ Closed issue [#1](https://github.com/julianYaman/tooldb/issues/1) in [julianYaman/tooldb](https://github.com/julianYaman/tooldb)
+2. 🗣 Commented on [#110](https://github.com/themesberg/flowbite-react/issues/110) in [themesberg/flowbite-react](https://github.com/themesberg/flowbite-react)
+3. ❗️ Opened issue [#1](https://github.com/julianYaman/tooldb/issues/1) in [julianYaman/tooldb](https://github.com/julianYaman/tooldb)
 4. 🗣 Commented on [#110](https://github.com/themesberg/flowbite-react/issues/110) in [themesberg/flowbite-react](https://github.com/themesberg/flowbite-react)
-5. 🗣 Commented on [#7986](https://github.com/prisma/prisma/issues/7986) in [prisma/prisma](https://github.com/prisma/prisma)
+5. 🗣 Commented on [#110](https://github.com/themesberg/flowbite-react/issues/110) in [themesberg/flowbite-react](https://github.com/themesberg/flowbite-react)
 <!--END_SECTION:activity-->
 </details>
 
