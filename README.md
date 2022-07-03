@@ -26,11 +26,11 @@ I'm also open to contributing to other open source projects. Feel free to DM me 
   <br/>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#214](https://github.com/themesberg/flowbite-react/issues/214) in [themesberg/flowbite-react](https://github.com/themesberg/flowbite-react)
-2. ❗️ Closed issue [#3](https://github.com/julianYaman/tooldb/issues/3) in [julianYaman/tooldb](https://github.com/julianYaman/tooldb)
-3. 🗣 Commented on [#294](https://github.com/hapijs/nes/issues/294) in [hapijs/nes](https://github.com/hapijs/nes)
-4. 🗣 Commented on [#1124](https://github.com/leerob/on-demand-isr/issues/1124) in [leerob/on-demand-isr](https://github.com/leerob/on-demand-isr)
-5. ❗️ Opened issue [#1130](https://github.com/leerob/on-demand-isr/issues/1130) in [leerob/on-demand-isr](https://github.com/leerob/on-demand-isr)
+1. 🎉 Merged PR [#5](https://github.com/julianYaman/tooldb/pull/5) in [julianYaman/tooldb](https://github.com/julianYaman/tooldb)
+2. 💪 Opened PR [#5](https://github.com/julianYaman/tooldb/pull/5) in [julianYaman/tooldb](https://github.com/julianYaman/tooldb)
+3. 🎉 Merged PR [#4](https://github.com/julianYaman/tooldb/pull/4) in [julianYaman/tooldb](https://github.com/julianYaman/tooldb)
+4. 💪 Opened PR [#4](https://github.com/julianYaman/tooldb/pull/4) in [julianYaman/tooldb](https://github.com/julianYaman/tooldb)
+5. ❗️ Opened issue [#214](https://github.com/themesberg/flowbite-react/issues/214) in [themesberg/flowbite-react](https://github.com/themesberg/flowbite-react)
 <!--END_SECTION:activity-->
 </details>
 
