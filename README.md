@@ -26,11 +26,11 @@ I'm also open to contributing to other open source projects. Feel free to DM me 
   <br/>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#214](https://github.com/themesberg/flowbite-react/issues/214) in [themesberg/flowbite-react](https://github.com/themesberg/flowbite-react)
-2. 🎉 Merged PR [#5](https://github.com/julianYaman/tooldb/pull/5) in [julianYaman/tooldb](https://github.com/julianYaman/tooldb)
-3. 💪 Opened PR [#5](https://github.com/julianYaman/tooldb/pull/5) in [julianYaman/tooldb](https://github.com/julianYaman/tooldb)
-4. 🎉 Merged PR [#4](https://github.com/julianYaman/tooldb/pull/4) in [julianYaman/tooldb](https://github.com/julianYaman/tooldb)
-5. 💪 Opened PR [#4](https://github.com/julianYaman/tooldb/pull/4) in [julianYaman/tooldb](https://github.com/julianYaman/tooldb)
+1. 🗣 Commented on [#269](https://github.com/themesberg/flowbite-react/issues/269) in [themesberg/flowbite-react](https://github.com/themesberg/flowbite-react)
+2. 🗣 Commented on [#214](https://github.com/themesberg/flowbite-react/issues/214) in [themesberg/flowbite-react](https://github.com/themesberg/flowbite-react)
+3. 🎉 Merged PR [#5](https://github.com/julianYaman/tooldb/pull/5) in [julianYaman/tooldb](https://github.com/julianYaman/tooldb)
+4. 💪 Opened PR [#5](https://github.com/julianYaman/tooldb/pull/5) in [julianYaman/tooldb](https://github.com/julianYaman/tooldb)
+5. 🎉 Merged PR [#4](https://github.com/julianYaman/tooldb/pull/4) in [julianYaman/tooldb](https://github.com/julianYaman/tooldb)
 <!--END_SECTION:activity-->
 </details>
 
