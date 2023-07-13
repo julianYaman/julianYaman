@@ -1,6 +1,4 @@
 <img width="100%" src="https://user-images.githubusercontent.com/20521320/151059203-6ca4fdeb-868d-41c1-8ac9-0a3c7ff2f277.png">
-
-<a href="https://app.daily.dev/julianYaman"><img align="right" src="https://github.com/julianYaman/julianYaman/blob/main/devcard.svg" width="350" alt="Julian Yaman's Dev Card"/></a>
   
 <details>
   <summary> 🙋‍♂️ <b>Read more about me :)</b></summary>
@@ -39,7 +37,7 @@ I'm also open to contributing to other open source projects. Feel free to DM me 
 - [How Hybrid Sharding for discord.js Bots Saved 75% of my previous Memory Usage](https://julianyaman.hashnode.dev/how-hybrid-sharding-for-discordjs-bots-saved-75-of-my-previous-memory-usage-ckrts15zp0p5xdps17alqhg28)
 <!-- HASHNODE_BLOG:END -->
 
-### 👷‍♂️ Currently working on
+### 👷‍♂️ Projects
 - 🤖 Wikipedia Discord Bot (> 1,2m users; > 6,5k servers)
 - 📋 Discord Bot Dashboard - a tool for Discord bot developers to manage their bot and look at usage metrics.
 - 🏗️ trying to improve TypeScript, Google Cloud and React / Next.js skills
@@ -143,12 +141,9 @@ Stuff I use a lot or even on a daily basis:
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=julianyaman&theme=algolia&no-frame=false&no-bg=false&margin-w=4)
 
-## 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
-
 ---
 ![](https://komarev.com/ghpvc/?username=julianyaman&label=Visitors+Count&color=brightgreen)
 
 ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/julianyaman) [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/yaman071) 
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/julianyaman)
   
