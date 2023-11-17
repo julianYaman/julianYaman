@@ -24,7 +24,7 @@ I'm also open to contributing to other open source projects. Feel free to DM me 
   <br/>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#269](https://github.com/themesberg/flowbite-react/issues/269) in [themesberg/flowbite-react](https://github.com/themesberg/flowbite-react)
+1. 🗣 Commented on [#840](https://github.com/elrumo/macOS_Big_Sur_icons_replacements/issues/840#issuecomment-1817226901) in [elrumo/macOS_Big_Sur_icons_replacements](https://github.com/elrumo/macOS_Big_Sur_icons_replacements)
 2. 🗣 Commented on [#214](https://github.com/themesberg/flowbite-react/issues/214) in [themesberg/flowbite-react](https://github.com/themesberg/flowbite-react)
 3. 🎉 Merged PR [#5](https://github.com/julianYaman/tooldb/pull/5) in [julianYaman/tooldb](https://github.com/julianYaman/tooldb)
 4. 💪 Opened PR [#5](https://github.com/julianYaman/tooldb/pull/5) in [julianYaman/tooldb](https://github.com/julianYaman/tooldb)
