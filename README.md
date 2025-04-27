@@ -2,7 +2,7 @@
 <p>I'm Julian, a 23-year-old developer from Germany and I have a passion for building web applications and exploring new technologies. 
 I like to solve real-world user problems with easy-to-use tools and apps.</p>
 
-**🥳 NEW:** You can find my [**blog**](https://yaman.pro/blog) and more information about my recent projects on [**yaman.pro**](https://yaman.pro/) 
+**🥳 NEW:** You can find my [**blog**](https://yaman.pro/blog?utm_source=github) and more information about my recent projects on [**yaman.pro**](https://yaman.pro/?utm_source=github) 
 
 Currently, I'm mostly working on small hobby projects to use and experiment with new frameworks, progamming languages and tools.
 
