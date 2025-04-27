@@ -20,9 +20,11 @@ Currently, I'm mostly working on small hobby projects to use and experiment with
 <!--END_SECTION:activity-->
 </details>
 
-You can contact me on:
+✉️ You can contact me on:
 * [Discord](https://discord.gg/ccpgH3b)
 * [LinkedIn](https://linkedin.com/in/julian-yaman)
+* [Mastodon](https://mstdn.social/@yaman)
+* [X](https://x.com/julianYaman)
 
 ## 📊 GitHub Stats
 <div>
