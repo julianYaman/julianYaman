@@ -1,5 +1,5 @@
 <h2 align="center">Hello :)</h2>
-<p>I'm Julian, a 23-year-old developer from Germany and I have a passion for building web applications and exploring new technologies. 
+<p>I'm Julian, a 24-year-old developer from Germany and I have a passion for building web applications and exploring new technologies. 
 I like to solve real-world user problems with easy-to-use tools and apps.</p>
 
 **🥳 NEW:** You can find my [**blog**](https://yaman.pro/blog?utm_source=github) and more information about my recent projects on [**yaman.pro**](https://yaman.pro/?utm_source=github) 
@@ -7,7 +7,8 @@ I like to solve real-world user problems with easy-to-use tools and apps.</p>
 Currently, I'm mostly working on small hobby projects to use and experiment with new frameworks, progamming languages and tools.
 
 ### Recent Projects
-- [colorr.me - Simple Solid Color Backgrounds](https://colorr.me)
+- [colorr.me - Gradient & Solid Color Backgrounds](https://colorr.me)
+- [HackerNews Tech News - Tech Blog-style user interface for the Top Stories of Hacker News](https://hn.yamanlabs.com)
 
 ### Recent GitHub Activity
 <details>
