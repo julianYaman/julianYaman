@@ -8,7 +8,7 @@ Currently, I'm mostly working on small hobby projects to use and experiment with
 
 ### Recent Projects
 - [colorr.me - Gradient & Solid Color Backgrounds](https://colorr.me)
-- [HackerNews Tech News - Tech Blog-style user interface for the Top Stories of Hacker News](https://hn.yamanlabs.com)
+- [hn30 - hn30 shows the current top 30 Hacker News Posts. Summarize the article content with AI.](https://hn30.yamanlabs.com)
 
 ### Recent GitHub Activity
 <details>
