@@ -6,9 +6,10 @@ I like to solve real-world user problems with easy-to-use tools and apps.</p>
 
 Currently, I'm mostly working on small hobby projects to use and experiment with new frameworks, progamming languages and tools.
 
-### Recent Projects
+### Recent Live Projects
 - [colorr.me - Gradient & Solid Color Backgrounds](https://colorr.me)
 - [hn30 - hn30 shows the current top 30 Hacker News Posts. Summarize the article content with AI.](https://hn30.yamanlabs.com)
+- [Bitcoin Clicker](https://julianyaman.github.io/bitcoin-clicker/index.html)
 
 ### Recent GitHub Activity
 <details>
