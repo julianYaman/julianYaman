@@ -17,7 +17,7 @@ Currently, I'm mostly working on small hobby projects to use and experiment with
   <br/>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#5373](https://github.com/endoflife-date/endoflife.date/pull/5373) in [endoflife-date/endoflife.date](https://github.com/endoflife-date/endoflife.date)
+1. 💪 Opened PR [#113](https://github.com/cheeaun/awesome-hacker-news/pull/113) in [cheeaun/awesome-hacker-news](https://github.com/cheeaun/awesome-hacker-news)
 2. 🗣 Commented on [#214](https://github.com/themesberg/flowbite-react/issues/214) in [themesberg/flowbite-react](https://github.com/themesberg/flowbite-react)
 3. 🎉 Merged PR [#5](https://github.com/julianYaman/tooldb/pull/5) in [julianYaman/tooldb](https://github.com/julianYaman/tooldb)
 4. 💪 Opened PR [#5](https://github.com/julianYaman/tooldb/pull/5) in [julianYaman/tooldb](https://github.com/julianYaman/tooldb)
