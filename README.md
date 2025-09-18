@@ -32,15 +32,6 @@ Currently, I'm mostly working on small hobby projects to use and experiment with
 * [X](https://x.com/julianYaman)
 * [e-mail](https://yaman.pro/contact)
 
-## 📊 GitHub Stats
-<div>
-  <img width="30%" src="https://github-readme-stats.vercel.app/api?username=julianyaman&theme=blue-green&hide_border=false&include_all_commits=false&count_private=true" />
-  <img width="30%" src="https://github-readme-streak-stats.herokuapp.com/?user=julianyaman&theme=blue-green&hide_border=false" />
-</div>
-<div>
-  <img width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julianyaman&theme=blue-green&hide_border=false&include_all_commits=false&count_private=true&layout=compact" />
-</div>
-
 ---
 
 ![](https://komarev.com/ghpvc/?username=julianyaman&label=Visitors+Count&color=brightgreen)
