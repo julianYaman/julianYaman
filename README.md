@@ -18,8 +18,8 @@ Currently, I'm mostly working on small hobby projects to use and experiment with
 
 <!--START_SECTION:activity-->
 1. 🔒 Closed issue [#174](https://github.com/julianYaman/discord-bot-dashboard/issues/174) in [julianYaman/discord-bot-dashboard](https://github.com/julianYaman/discord-bot-dashboard)
-2. 💪 Opened PR [#3907](undefined) in [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev)
-3. 🎉 Merged PR [#5](https://github.com/julianYaman/tooldb/pull/5) in [julianYaman/tooldb](https://github.com/julianYaman/tooldb)
+2. ❌ Merged PR [#3907](undefined) in [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev)
+3. 💪 Opened PR [#3907](undefined) in [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev)
 4. 💪 Opened PR [#5](https://github.com/julianYaman/tooldb/pull/5) in [julianYaman/tooldb](https://github.com/julianYaman/tooldb)
 5. 🎉 Merged PR [#4](https://github.com/julianYaman/tooldb/pull/4) in [julianYaman/tooldb](https://github.com/julianYaman/tooldb)
 <!--END_SECTION:activity-->
