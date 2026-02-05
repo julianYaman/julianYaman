@@ -6,11 +6,11 @@ I like to solve real-world user problems with easy-to-use tools and apps.</p>
 
 Currently, I'm mostly working on small hobby projects to use and experiment with new frameworks, progamming languages and tools.
 
-### Recent Live Projects
-- [colorr.me - Gradient & Solid Color Backgrounds](https://colorr.me)
-- [hn30 - hn30 shows the current top 30 Hacker News Posts. Summarize the article content with AI.](https://hn30.yamanlabs.com)
-- [Bitcoin Clicker](https://julianyaman.github.io/bitcoin-clicker/index.html)
-- [crpytofetch](https://github.com/julianYaman/cryptofetch)
+### Live Projects
+- 🎨 [**colorr.me**](https://colorr.me) - Gradient & Solid Color Backgrounds
+- 📰 [**hn30**](https://hn30.yamanlabs.com) - hn30 shows the current top 30 Hacker News Posts. Summarize the article content with AI.
+- 🪙 [**Bitcoin Clicker**](https://julianyaman.github.io/bitcoin-clicker/index.html) - Cookie Clicker but different.
+- 🖥️ [**crpytofetch**](https://github.com/julianYaman/cryptofetch) - like neofetch, but for crypto
 
 ### ✉️ You can contact me on:
 * [Discord](https://discord.gg/ccpgH3b)
