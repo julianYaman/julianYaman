@@ -10,6 +10,7 @@ Currently, I'm mostly working on small hobby projects to use and experiment with
 - 🎨 [**colorr.me**](https://colorr.me) - Gradient & Solid Color Backgrounds
 - 📰 [**hn30**](https://hn30.yamanlabs.com) - hn30 shows the current top 30 Hacker News Posts. Summarize the article content with AI.
 - 🍅 [**Ketchup**](https://github.com/julianYaman/ketchup) - Pomodoro Timer running in your Browser with Picture-In-Picture support to pin it everywhere.
+- 🐻 [**Bearprompt**](https://github.com/julianYaman/bearprompt) - Your private prompt library for AI. Create and manage your prompt collection locally in your browser.
 - 🪙 [**Bitcoin Clicker**](https://julianyaman.github.io/bitcoin-clicker/index.html) - Cookie Clicker but different.
 - 🖥️ [**crpytofetch**](https://github.com/julianYaman/cryptofetch) - like neofetch, but for crypto
 
